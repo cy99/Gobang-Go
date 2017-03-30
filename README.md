@@ -1,7 +1,7 @@
 # Gobang
 A multiplayer Gobang game. Powered by Golang.
 
-This project is broken, need reorganizing.
+This project is broken, needs to be reorganized.
 # Screenshots
 ![Home](screenshots/1.png)
 ![Waiting](screenshots/2.png)
